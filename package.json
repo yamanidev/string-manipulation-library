@@ -1,0 +1,24 @@
+{
+  "name": "string-manipulation-library",
+  "version": "1.0.0",
+  "description": "Playing around with strings in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamanidev/string-manipulation-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamanidev/string-manipulation-library/issues"
+  },
+  "homepage": "https://github.com/yamanidev/string-manipulation-library#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
