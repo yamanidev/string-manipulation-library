@@ -1,4 +1,4 @@
-import isString from "../../src/helper/isString";
+const isString = require("../../src/helper/isString");
 
 it("should return false for non-string types", () => {
 
